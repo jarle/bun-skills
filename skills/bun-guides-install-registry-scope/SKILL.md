@@ -1,5 +1,5 @@
 ---
-name: Bun Configure a private registry for an organization scope with bun install
+name: Bun Configure private registry for org scope
 description: Configure a private registry for an organization scope with bun install
 ---
 
